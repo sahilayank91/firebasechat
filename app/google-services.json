@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1095345501557",
+    "firebase_url": "https://fir-chat-342b9.firebaseio.com",
+    "project_id": "fir-chat-342b9",
+    "storage_bucket": "fir-chat-342b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095345501557:android:aa0771f27f071236",
+        "android_client_info": {
+          "package_name": "in.ac.iiitk.firebase_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095345501557-k4vdm55r4l8qe6b78u9f5v805t4ofimh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.ac.iiitk.firebase_chat",
+            "certificate_hash": "0914029d311e287d78e891ee4466f43c3ab07182"
+          }
+        },
+        {
+          "client_id": "1095345501557-g3bjj4jvl3j5b354eunul09pu63062v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6Ip2jeld0j6cNwxv4Y2HCL4uK3LyQVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095345501557-g3bjj4jvl3j5b354eunul09pu63062v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
